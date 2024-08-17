@@ -1,7 +1,7 @@
 replicaCount: 2
 image:
   repository: nginx
-  tag: 1.16.0
+  tag: 1.17.0
 service:
   type: LoadBalancer
   port: 80
